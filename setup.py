@@ -36,7 +36,7 @@ setup(
     license="AGPLv3",
     author="Amjad Smadi",
     author_email="smadi123@gmail.com",
-    description="Testing Tutor plugin cookiecutter",
+    description="Testing Plugin Cookiecutter",
     long_description=load_readme(),
     long_description_content_type="text/x-rst",
     packages=find_packages(exclude=["tests*"]),
