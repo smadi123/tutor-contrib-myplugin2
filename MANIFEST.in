@@ -1,0 +1,2 @@
+recursive-include tutormyplugin2/patches *
+recursive-include tutormyplugin2/templates *
