@@ -1,7 +1,7 @@
 myplugin2 plugin for `Tutor <https://docs.tutor.edly.io>`__
 ###############################################################################
 
-Testing Plugin Cookiecutter
+Testing Tutor plugin cookiecutter-Tutor
 
 
 Installation
